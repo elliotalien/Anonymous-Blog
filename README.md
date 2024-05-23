@@ -27,7 +27,7 @@ Once the development server is running, you can access the blog page in your web
 
 | Screenshots |
 |-------------|
-|<img src="https://github.com/elliotalien/React-Blog-UI/blob/main/public/screencapture-elliotalien-github-io-React-Blog-Page-2024-05-13-20_50_31.png">|
+|<img src="https://github.com/elliotalien/Anonymous-Blog/blob/main/public/like.png">|
 |             |
 
 ## Contributing
