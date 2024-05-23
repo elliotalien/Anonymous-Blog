@@ -8,7 +8,7 @@ const App = () => {
   <BrowserRouter>
   <Routes>
     <Route path='/Anonymous-Blog' element={<Home/>} />
-    <Route path='/Dashboard' element={<PostForm/>}/>
+    <Route path='/Anonymous-Blog/Dashboard' element={<PostForm/>}/>
   </Routes>
   
   </BrowserRouter>
