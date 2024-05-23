@@ -19,11 +19,11 @@ const DashboardForm = ({ formData, handleChange, resetForm }) => {
         formDataToSubmit
       );
       if (response.status === 200) {
-        alert(response.data);
+        alert("Blog Posted !");
       }
     } catch (error) {
       console.error("Error:", error);
-      alert("Blog post failed!");
+      alert("Blog Post Failed!");
     }
   };
 
