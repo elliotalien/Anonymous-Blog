@@ -7,7 +7,7 @@ const App = () => {
   return (
   <BrowserRouter>
   <Routes>
-    <Route path='/' element={<Home/>} />
+    <Route path='/Anonymous-Blog' element={<Home/>} />
     <Route path='/Dashboard' element={<PostForm/>}/>
   </Routes>
   
