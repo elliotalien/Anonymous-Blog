@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Anonymous-Blog/static/css/main.9bf5ca4a.css",
+    "main.js": "/Anonymous-Blog/static/js/main.747db1b6.js",
+    "index.html": "/Anonymous-Blog/index.html",
+    "main.9bf5ca4a.css.map": "/Anonymous-Blog/static/css/main.9bf5ca4a.css.map",
+    "main.747db1b6.js.map": "/Anonymous-Blog/static/js/main.747db1b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bf5ca4a.css",
+    "static/js/main.747db1b6.js"
+  ]
+}
