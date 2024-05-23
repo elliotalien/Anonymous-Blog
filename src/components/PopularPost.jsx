@@ -1,6 +1,6 @@
 import React from "react";
 import Post from "./Post";
-import { PopularPosts } from "../../Data/data";
+import { PopularPosts } from "../Data/data";
 import { v4 as uuidv4 } from "uuid";
 
 const PopularPost = () => {

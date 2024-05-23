@@ -4,7 +4,7 @@ import PopularPost from "./PopularPost";
 import Tag from "./Tag";
 import AboutCard from "./AboutCard";
 import axios from "axios";
-import { aboutdata } from "../../Data/data";
+import { aboutdata } from "../Data/data";
 import { v4 as uuidv4 } from "uuid";
 
 const formatDate = (isoString) => {

@@ -1,6 +1,6 @@
 import React from "react";
 import TagList from "./TagsList";
-import { tagdata } from "../../Data/data";
+import { tagdata } from "../Data/data";
 import { v4 as uuidv4 } from "uuid";
 
 const Tag = () => {

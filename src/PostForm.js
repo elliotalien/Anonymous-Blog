@@ -1,7 +1,7 @@
 import React from 'react'
-import DashboardHeader from './components/Dashboard/DashboardHeader'
-import DashboardFooter from './components/Dashboard/DashboardFooter'
-import DashboardMaincontent from './components/Dashboard/DashboardMaincontent'
+import DashboardHeader from './components/DashboardHeader'
+import DashboardFooter from './components/DashboardFooter'
+import DashboardMaincontent from './components/DashboardMaincontent'
 
 const PostForm = () => {
   return (
