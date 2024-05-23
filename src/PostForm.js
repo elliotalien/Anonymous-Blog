@@ -1,14 +1,14 @@
 import React from 'react'
 import DashboardHeader from './components/DashboardHeader'
-import DashboardFooter from './components/DashboardFooter'
 import DashboardMaincontent from './components/DashboardMaincontent'
+import Footer from './components/Footer'
 
 const PostForm = () => {
   return (
      <>
      <DashboardHeader/>
      <DashboardMaincontent/>
-     <DashboardFooter/>
+     <Footer/>
      </>
   )
 }
